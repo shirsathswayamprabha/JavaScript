@@ -38,3 +38,5 @@ graph.addEdge('B', 'C');
 graph.addEdge('C', 'A');
 graph.addEdge('D', 'B');
 graph.display();
+
+// graph is datastructure
